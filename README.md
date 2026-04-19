@@ -59,7 +59,7 @@ Seeking a Software Quality Assurance (SQA) role where I can apply my skills in m
 ---
 
 ## 📄 Resume
-📥 Download CV: https://drive.google.com/file/d/1_rI13HCXWjeDCqvGcpyUySI09ytevUD6/view?usp=sharing
+📥 Download CV: https://drive.google.com/file/d/1wlH2VK9C7uN7ubyH5j932Mib-_TeYxd9/view?usp=sharing
 ---
 
 ## 📊 GitHub Stats
