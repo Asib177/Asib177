@@ -63,7 +63,7 @@ Seeking a Software Quality Assurance (SQA) role where I can apply my skills in m
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asib177&show_icons=true&theme=default)
+![GitHub Stats](https://drive.google.com/file/d/14bDCaOUhZ_rO_VR6Vm2xsAMy1a9r_qOA/view?usp=sharing)
 
 ---
 
